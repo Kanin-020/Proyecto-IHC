@@ -8,3 +8,5 @@ Daniel Iván García Aguilar<br>
 <img src="https://github.com/Kanin-020/Proyecto-IHC/blob/main/Integrantes/Daniel.jpeg?raw=true" height=200><br>
 Miguel Humberto González Herrera<br>
 <img src="https://github.com/Kanin-020/Proyecto-IHC/blob/main/Integrantes/linux.jpeg?raw=true" height=200><br>
+David de Jesús Avila Pacheco<br>
+Irving Poot Moo<br>
