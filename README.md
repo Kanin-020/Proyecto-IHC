@@ -8,10 +8,10 @@ Daniel Iván García Aguilar<br>
 <img src="https://github.com/Kanin-020/Proyecto-IHC/blob/main/Integrantes/Daniel.jpeg?raw=true" height=200><br>
 Miguel Humberto González Herrera<br>
 <img src="https://github.com/Kanin-020/Proyecto-IHC/blob/main/Integrantes/linux.jpeg?raw=true" height=200><br>
-David de Jesús Avila Pacheco<br>
+<br>
 Irving Eduardo Poot Moo<br>
 
 
-| Jesús Miguel Álvarez Vázquez    | Eduardo Leonel Echeverría León| Daniel Iván García Aguilar      | Miguel Humberto González Herrera|
-| ------------------------------- | ----------------------------- | ------------------------------- | ----------------------------- |
-| ![Yo.jpeg](./Integrantes/Yo.jpeg)   | ![Ed.jpeg](./Integrantes/Ed.jpeg) | ![Daniel.jpeg](./Integrantes/Daniel.jpeg) | ![linux.jpeg](./Integrantes/linux.jpeg) |
+| Jesús Miguel Álvarez Vázquez    | David de Jesús Avila Pacheco|Eduardo Leonel Echeverría León| Daniel Iván García Aguilar      | Miguel Humberto González Herrera| 
+| ------------------------------- | ----------------------------|----------------------------- | ------------------------------- | ----------------------------- |
+| ![Yo.jpeg](./Integrantes/Yo.jpeg) |  | ![Ed.jpeg](./Integrantes/Ed.jpeg) | ![Daniel.jpeg](./Integrantes/Daniel.jpeg) | ![linux.jpeg](./Integrantes/linux.jpeg) |
