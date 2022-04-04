@@ -10,3 +10,8 @@ Miguel Humberto González Herrera<br>
 <img src="https://github.com/Kanin-020/Proyecto-IHC/blob/main/Integrantes/linux.jpeg?raw=true" height=200><br>
 David de Jesús Avila Pacheco<br>
 Irving Eduardo Poot Moo<br>
+
+
+| Jesús Miguel Álvarez Vázquez | William Cetina Pech           | Pedro Daniel Euan Chan        | Mario Angel May Rodriguez     |
+| ------------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
+| ![Jesus.jpeg](./img/Jesus.jpeg)   | ![Willy.jpeg](./img/Willy.jpeg) | ![Pedro.jpeg](./img/Pedro.jpeg) | ![Mario.jpeg](./img/Mario.jpeg) |
